@@ -1,8 +1,8 @@
 # Mutanabi' Alarabia (متنبئ العربية)
 
-**First Platform Dedicated to Students and Researchers, providing a comprehensive analysis of words from all perspectives a student may need, delivered at the click of a button and in the blink of an eye.**
+**First platform dedicated to students and researchers, providing a comprehensive analysis of words from all perspectives a student may need, delivered at the click of a button and in the blink of an eye.**
 
-![Mutanabi' Alarabia](path/to/mutanabi_screenshot.png)
+![Mutanabi' Alarabia](متنبئ.png)
 
 After studying existing solutions and the challenges faced by their users, we arrived at our creative solution - **Mutanabi' Alarabia**. It is the first platform dedicated to students and researchers, offering a complete analysis of words from all the angles a student might require. This analysis is provided with a simple click, instantly.‎
 
